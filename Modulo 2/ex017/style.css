@@ -10,4 +10,9 @@ body{
     16px geralmente = 1em
      */
     font-size: 1.5em;
+    /* weight = peso, width = largura, height = altura */
+
+    /*shorthands fonts
+    
+    font: -> font-style -> font-weight -> font-size -> font-family */
 }
